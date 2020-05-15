@@ -14,7 +14,7 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - Jim Caffrey - IBM- Mentor
-- Ayush Shidhar - *University* - Mentee
+- Ayush Shidhar - International Institute of Information Technology, Bhubaneswar, India - Mentee
 
 ## Deliverables:
 - [ ] Project Plan
