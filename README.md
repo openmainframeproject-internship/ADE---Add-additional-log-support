@@ -17,7 +17,7 @@ a better understanding of the problems you encountered during the developmemnt o
 - Ayush Shidhar - International Institute of Information Technology, Bhubaneswar, India - Mentee
 
 ## Deliverables:
-- [ ] Project Plan
+- [X] Project Plan
 - [ ] 1st Stipend Released
 - [ ] Statement of Work
 - [ ] Architecure/High Level Design
