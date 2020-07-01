@@ -8,10 +8,10 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | | | 
-| Week 2 Status Report | | |
-| Week 3 Status Report | | |
-| Week 4 Status Report | | |
+| Week 1 Status Report | Week 1 Report | [Week 1](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week1.md) | 
+| Week 2 Status Report | Week 2 Report | [Week 2](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week2.md) |
+| Week 3 Status Report | Week 3 Report | [Week 3](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week3.md) |
+| Week 4 Status Report | Week 4 Report | [Week 4](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week4.md) |
 | Week 5 Status Report | | |
 | Week 6 Status Report | | |
 | Week 7 Status Report | | |
