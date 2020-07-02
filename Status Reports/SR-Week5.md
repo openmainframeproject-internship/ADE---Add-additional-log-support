@@ -19,5 +19,5 @@
 
 1. There is no process id present within Spark logs.
 2. component of a log message becomes same as the source (due to inavailability of pid)
-2. Running tests gives me an unexpected AdeInternalError. Need to investigate why this might be happening.
+3. Running tests gives me an unexpected AdeInternalError. Need to investigate why this might be happening.
 Temporarily got around this by adding an initializer methods for the test cases.
