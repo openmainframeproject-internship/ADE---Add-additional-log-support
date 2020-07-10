@@ -20,4 +20,4 @@ upload bash script.
 ### Issues:
 
 1. There is no process id present within Spark logs.
-2. Would be better to have a specific set of bash scipts for Spark classes. (This would need spark analyze xml files)
+2. Would be better to have a specific set of bash scripts for testing Spark logs end-to-end. (This would need spark analyze xml files)
