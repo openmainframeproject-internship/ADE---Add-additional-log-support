@@ -16,5 +16,6 @@
 
 ### Issues:
 
-1. There is no process id present within Spark logs: awaiting new logs.
+1. There is no process id present within Spark logs: awaiting new logs that contain id.
 2. Encountered issues upon changing a few parameters in FlowLayout.xml.
+3. Might need a better way to deal with dense logs.
