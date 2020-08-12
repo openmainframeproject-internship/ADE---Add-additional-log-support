@@ -20,7 +20,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 10 Status Report | Week 10 Report | [Week 10](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week10.md)|
 | Week 11 Status Report | Week 11 Report | [Week 11](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week11.md)|
 | Week 12 Status Report | Week 12 Report | [Week 12](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week12.md)|
-| Week 13 Status Report | | |
+| Week 13 Status Report | Week 13 Report | [Week 13](https://github.com/openmainframeproject-internship/ADE---Add-additional-log-support/blob/master/Status%20Reports/SR-Week13.md)|
 | Week 14 Status Report | | |
 | Week 15 Status Report | | |
 | Week 16 Status Report | | |
