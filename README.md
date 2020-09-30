@@ -21,11 +21,11 @@ a better understanding of the problems you encountered during the developmemnt o
 - [X] 1st Stipend Released
 - [X] Statement of Work
 - [X] Architecure/High Level Design
-- [ ] Detailed Design
-- [ ] 2nd Stipend Released
-- [ ] Mid-term Evaluation (by mentor)
-- [ ] Code Project (with comments)
-- [ ] Testing
-- [ ] Video Presentation of the Project
+- [X] Detailed Design
+- [X] 2nd Stipend Released
+- [X] Mid-term Evaluation (by mentor)
+- [X] Code Project (with comments)
+- [X] Testing
+- [X] Video Presentation of the Project
 - [ ] Final Evaluation (by mentor)
 - [ ] 3rd Stipend Released
